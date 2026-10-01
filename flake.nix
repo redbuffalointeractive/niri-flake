@@ -5,7 +5,8 @@
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     nixpkgs-stable.url = "github:NixOS/nixpkgs/nixos-25.11";
 
-    niri-stable.url = "github:redbuffalointeractive/niri/v25.08";
+    # v25.08 fork with upstream #3404: release hooks/buffers for destroyed surfaces.
+    niri-stable.url = "github:redbuffalointeractive/niri/4afedb27502bdf5be18cd5ada52195d6ea7b2136";
     niri-unstable.url = "github:redbuffalointeractive/niri";
 
     xwayland-satellite-stable.url = "github:Supreeeme/xwayland-satellite/v0.7";

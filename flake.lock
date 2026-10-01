@@ -3,32 +3,32 @@
     "niri-stable": {
       "flake": false,
       "locked": {
-        "lastModified": 1756556321,
-        "narHash": "sha256-RLD89dfjN0RVO86C/Mot0T7aduCygPGaYbog566F0Qo=",
-        "owner": "YaLTeR",
+        "lastModified": 1790679609,
+        "narHash": "sha256-jfvq4WZsOGTT/o+eqEsCK/UA++fuFSDdqXOgQSP7KBg=",
+        "owner": "redbuffalointeractive",
         "repo": "niri",
-        "rev": "01be0e65f4eb91a9cd624ac0b76aaeab765c7294",
+        "rev": "4afedb27502bdf5be18cd5ada52195d6ea7b2136",
         "type": "github"
       },
       "original": {
-        "owner": "YaLTeR",
-        "ref": "v25.08",
+        "owner": "redbuffalointeractive",
         "repo": "niri",
+        "rev": "4afedb27502bdf5be18cd5ada52195d6ea7b2136",
         "type": "github"
       }
     },
     "niri-unstable": {
       "flake": false,
       "locked": {
-        "lastModified": 1776505268,
-        "narHash": "sha256-+hK+EgAwuRG+lhqwOkKfXlqMEdELIoTMdjfVosIlLb0=",
-        "owner": "YaLTeR",
+        "lastModified": 1776547740,
+        "narHash": "sha256-XouBanGTQ/N22ueWBXh6vXVQK8BPUvhVNzQsKlod0Z8=",
+        "owner": "redbuffalointeractive",
         "repo": "niri",
-        "rev": "9e5716a9dbf7dbf9622a95a5bd23a898867759c6",
+        "rev": "8deb11969c3f636bad761a28b1f3236d4fb2dc0e",
         "type": "github"
       },
       "original": {
-        "owner": "YaLTeR",
+        "owner": "redbuffalointeractive",
         "repo": "niri",
         "type": "github"
       }
